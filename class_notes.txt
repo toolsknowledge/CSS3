@@ -1,0 +1,105 @@
+Topics
+------
+
+1) Basics of CSS 1.0 / CSS 2.0
+
+
+2) Differences Between CSS 1.0 , CSS 2.0 and CSS 3.0
+
+
+3) Box Modeling in CSS3
+
+
+4) Flex Box
+
+
+5) Media Queries    (RWD)   (Responsive Web Design)
+
+
+6) 2D & 3D Transformations
+
+
+7) Animations
+
+
+8) CSS3 Borders
+
+
+9) CSS3 Text Effects
+
+
+10) CSS Positioning Properties
+
+	=> static
+
+	=> relative
+
+	=> absolute
+
+	=> fixed
+
+	=> sticky
+
+11) z-index
+
+
+12) Pseudo Classes
+
+
+13) 3 to 4 Faq's
+
+
+14) Grid View in CSS3
+
+CSS
+---
+    - CSS Stands for Cascadding Style Sheet.
+
+    - CSS, used to apply the styles to the webpages.
+
+        Ex.
+            borders
+
+            colors
+
+            background-colors
+
+            font styles
+
+            shadows
+
+            animations
+
+            transformations
+
+            ----
+            ----
+            ----
+
+    - these are the different versions of CSS
+
+            CSS 1.0
+
+            CSS 2.0
+
+            CSS 3.0
+
+    - current version is CSS 3.0
+
+    - <style></style> tag, used to include the CSS to webpages.
+
+        Ex.
+            <style>
+                //CSS Here
+            </style>
+
+    - "style" attribute, used to write the "inline CSS".
+
+        Ex.
+            <div style="......"></div>
+
+    - <link> tag, used to include the external CSS.
+
+    - CSS files must save with ".css" extension.
+
+
