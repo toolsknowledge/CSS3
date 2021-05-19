@@ -1,0 +1,79 @@
+html{
+    scroll-behavior: smooth;
+    font-family: "Comic Sans MS";
+}
+
+body{
+    background: linear-gradient(45deg,salmon,pink);
+}
+
+.menu{
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+a{
+    text-decoration: none;  
+    background: linear-gradient(45deg,red,black);
+    color: whitesmoke;
+    padding: 0.5rem;
+    border-radius: 1rem; 
+}
+
+a:hover{
+    background: linear-gradient(45deg,red,whitesmoke);
+}
+
+.heading{
+    text-align: center;
+}
+
+h1{
+    color: royalblue;
+}
+
+.greeting{
+    text-align: center;
+    border: 2px solid red;
+    width: 50%;
+    margin: auto;
+    padding: 1rem;
+    border-radius: 0px 30px;
+    color: whitesmoke;
+    text-shadow: 0px 0px 10px black;
+    box-shadow:  0px 0px 10px whitesmoke;
+}
+
+p{
+    text-align: justify;
+    padding: 0.5rem;
+    color: blue;
+}
+
+.sections{
+    color: brown;
+    text-align: center;
+    border:1px solid red;
+    padding: 1rem;
+    width: 50%;
+    margin: auto;
+    border-radius: 50%;
+    text-shadow: 0px 0px 20px whitesmoke;
+    box-shadow: 0px 0px 20px whitesmoke;
+}
+
+table{
+    color: whitesmoke;
+    text-align: center;
+}
+
+
+img{
+    width: 50%;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+
+
