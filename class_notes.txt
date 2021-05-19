@@ -53,53 +53,48 @@ Topics
 
 CSS
 ---
-    - CSS Stands for Cascadding Style Sheet.
+    CSS Stands for Cascadding Sty;e Sheet.
 
-    - CSS, used to apply the styles to the webpages.
+    CSS, used to apply the styles to the webpages.
 
-        Ex.
-            borders
+    Ex.
+        colors
 
-            colors
+        background-colors
 
-            background-colors
+        borders
 
-            font styles
+        margins
 
-            shadows
+    CSS versions
 
-            animations
+        CSS 1.0
 
-            transformations
+        CSS 2.0
 
-            ----
-            ----
-            ----
+        CSS 3.0
 
-    - these are the different versions of CSS
 
-            CSS 1.0
+    we will include CSS to webpages by using <style></style> tag
 
-            CSS 2.0
+    Ex.
+        <style>
+            -------
+            -------
+            -------
+        </style>
 
-            CSS 3.0
+    we will include inline css by using "style" attribute.
 
-    - current version is CSS 3.0
 
-    - <style></style> tag, used to include the CSS to webpages.
+    Ex.
+            <div style="....."></div>
 
-        Ex.
-            <style>
-                //CSS Here
-            </style>
+    we will include external CSS by usinh <link> tag.
 
-    - "style" attribute, used to write the "inline CSS".
 
-        Ex.
-            <div style="......"></div>
+    Ex.
+        <link rel="stylesheet" ......>
 
-    - <link> tag, used to include the external CSS.
-
-    - CSS files must save with ".css" extension.
-
+        </link>
 
