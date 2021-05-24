@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS Z-INDEX PROPERTY</title>
+        <style>
+            .a,.b,.c,.d{
+                width: 100px;
+                height: 100px;
+                color: white;
+            }
+            .a{
+                background-color: red;
+            }
+            .b{
+                background-color: green;
+                position: absolute;
+                left:40px;
+                top:40px;
+                z-index: -1;
+            }
+            .c{
+                background-color: blue;
+                position: absolute;
+                left: 30px;
+                top:50px;
+                z-index: -2;
+            }
+            .d{
+                background-color: coral;
+                position: absolute;
+                z-index: -3;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="a">a</div>
+        <div class="b">b</div>
+        <div class="c">c</div>
+        <div class="d">d</div>
+    </body>
+</html>
